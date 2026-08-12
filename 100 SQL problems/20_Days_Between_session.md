@@ -1,3 +1,4 @@
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 # Days Between First and Last Session in 2020
 
 ---
