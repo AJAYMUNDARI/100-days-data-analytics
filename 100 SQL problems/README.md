@@ -2,8 +2,8 @@
 
 | Difficulty | Solved |
 |------------|-------:|
-| 🟢 Easy | 10 |
-| 🟡 Medium | 18 |
-| 🔴 Hard | 2 |
+| 🟢 Easy | 12 |
+| 🟡 Medium | 10 |
+| 🔴 Hard | 1 |
 
-**Total:** 20 SQL problems solved 🚀
+**Total:** 23 SQL problems solved 🚀
