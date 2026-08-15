@@ -13,14 +13,6 @@ Strengthen problem-solving skills for Data Analyst and Product Analytics roles t
 * Statistics
 * Power BI / Tableau concepts
 
-## Progress
-
-| Day | Topic                        | Status |
-| --- | ---------------------------- | ------ |
-| 1   | SQL - Top Customers          | ✅      |
-| 2   | SQL - Remove Duplicates      | ✅      |
-| 3   | Python - GroupBy Aggregation | ⏳      |
-
 ## What each day contains
 
 * Problem statement
