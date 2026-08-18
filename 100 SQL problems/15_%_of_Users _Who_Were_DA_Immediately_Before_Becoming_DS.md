@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Percentage of Users Who Were Data Analysts Immediately Before Becoming Data Scientists
 # Business Context
 
