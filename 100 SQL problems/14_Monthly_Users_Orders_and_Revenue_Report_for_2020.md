@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Monthly Users, Orders, and Revenue Report for 2020
 # Business Context
 
