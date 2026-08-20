@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Histogram of Comments per User in January 2020
 
 ---
