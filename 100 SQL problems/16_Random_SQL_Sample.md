@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Randomly Sample One Row from a Very Large Table
 ---
 # Business Context
