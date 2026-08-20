@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Customers with More Than 3 Transactions in Both 2019 and 2020
 # Business Context
 
