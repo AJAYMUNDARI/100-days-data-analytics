@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Top 5 Users with the Longest Continuous Visit Streak
 
 ---
