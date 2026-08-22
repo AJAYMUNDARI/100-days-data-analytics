@@ -1,4 +1,4 @@
-Edit
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 
 # User Session Duration in 2020
 
