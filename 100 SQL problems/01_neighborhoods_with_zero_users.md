@@ -1,3 +1,4 @@
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 # Find Neighborhoods with Zero Users
 
 ## 1. Understand the Requirement
