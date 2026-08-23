@@ -1,3 +1,4 @@
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 # Largest Salary by Department
 
 ## Business Context
