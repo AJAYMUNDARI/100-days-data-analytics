@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Top 3 Departments by Percentage of Employees Earning Over 100K
 
 # Business Context
