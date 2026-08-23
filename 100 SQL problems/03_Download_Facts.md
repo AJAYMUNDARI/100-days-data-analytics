@@ -1,3 +1,4 @@
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 # Average Downloads by Day and Account Type
 
 ## Business Context
