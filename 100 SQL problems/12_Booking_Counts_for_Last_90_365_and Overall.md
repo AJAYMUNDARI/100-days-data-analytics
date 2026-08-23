@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Booking Counts for Last 90 Days, Last 365 Days, and Overall
 
 # Business Context
