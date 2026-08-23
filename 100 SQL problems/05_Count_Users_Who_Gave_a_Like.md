@@ -1,3 +1,4 @@
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 # Count Users Who Gave a Like on 6 June 2020
 
 ## Business Context
