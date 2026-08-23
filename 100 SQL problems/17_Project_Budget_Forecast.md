@@ -1,3 +1,4 @@
+![Medium](https://img.shields.io/badge/Difficulty-Medium-yellow?style=for-the-badge)
 # Project Budget Forecast Based on Employee Salary Cost
 
 ---
