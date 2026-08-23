@@ -1,3 +1,4 @@
+![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
 # Top 5 Most Expensive Projects by Budget per Employee
 
 ---
