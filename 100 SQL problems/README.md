@@ -3,7 +3,7 @@
 | Difficulty | Solved |
 |------------|-------:|
 | 🟢 Easy | 14 |
-| 🟡 Medium | 18 |
+| 🟡 Medium | 21 |
 | 🔴 Hard | 1 |
 
-**Total:** 33 SQL problems solved 🚀
+**Total:** 36 SQL problems solved 🚀
